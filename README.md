@@ -1,5 +1,7 @@
 # Higuma Duke
 
+![ひぐまDuke](https://github.com/java-do/HigumaDuke/blob/master/duke_72dpi.png)
+
 We have an original [Duke](http://www.oracle.com/us/technologies/java/duke-424174.html) for Hokkaido Java Engineer Group.
 
 His name is "Higuma Duke".
