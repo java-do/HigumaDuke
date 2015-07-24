@@ -1,6 +1,6 @@
 # Higuma Duke
 
-We have duke for Java Engineer Group Hokkiaido.
+We have Duke in Java Engineer Group Hokkiaido.
 
 We will call him "Higuma Duke".
 
