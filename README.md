@@ -13,6 +13,8 @@ We hope Higuma Duke will get many friends around the world.
 
 ## License
 
+Higuma Duke is released under the BSD License.
+
 Copyright (c) 2015, Noriko Kojima and Hokkaido Java Engineer Group
 All rights reserved.
 
