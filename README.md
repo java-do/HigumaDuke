@@ -8,7 +8,7 @@ His name is "Higuma Duke".
 
 "Higuma" means brown bears in Japanese.
 
-In Japan, Higuma taking salmon in his mouse is famous as symbol character of Hokkaido.
+In Japan, brown bears catching salmon is famous as symbol character of Hokkaido.
 
 We hope Higuma Duke will get many friends around the world.
 
